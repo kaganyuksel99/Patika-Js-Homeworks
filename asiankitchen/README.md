@@ -1,4 +1,4 @@
-# Javascript Ödev 3
+# Javascript Homework 3
 
 Asian Kitchen's Menu 
 
